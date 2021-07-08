@@ -1,5 +1,11 @@
+body{
+    margin: 0;
+}
+
 .header{
     width: 100%;
     overflow: hidden;
     background: rgb(167, 167, 167);
+    padding-left: 50px;
+    margin-bottom: 50px;
 }
