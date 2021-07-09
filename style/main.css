@@ -24,4 +24,18 @@ body{
 
 .header .navigation{
     float: right;
+    margin-top: 40px;
+}
+
+.header .container .navigation li{
+    float: right;
+    margin-left: 20px;
+    font-size: 18px;
+    display: block;
+
+}
+
+.header .container .navigation li a{
+    color: #FFF;
+    text-decoration: none;
 }
