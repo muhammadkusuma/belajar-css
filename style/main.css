@@ -18,9 +18,11 @@ body{
 .header{
     width: 100%;
     overflow: hidden;
-    background: rgb(167, 167, 167);
+    background: linear-gradient(to bottom, rgb(34, 2, 175),rgb(20, 0, 109));
     padding-left: 50px;
     margin-bottom: 50px;
+    height: 550px;
+    color: white;
 }
 
 .header .logo{
@@ -49,18 +51,6 @@ body{
 }
 
 .header .container .navigation li a:hover{
-    color: rebeccapurple;
+    color: red;
     text-decoration: underline;
-}
-
-.icon-kelas{
-    width: 500px;
-    height: 500px;
-    background-image: url('../images/jonas-kakaroto-KIPqvvTOC1s-unsplash.jpg');
-    background-size: cover;
-    border-radius: 50%;
-}
-
-.parent{
-    margin-top: 100px;
 }
