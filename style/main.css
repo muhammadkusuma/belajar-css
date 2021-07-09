@@ -39,3 +39,8 @@ body{
     color: #FFF;
     text-decoration: none;
 }
+
+.header .container .navigation li a:hover{
+    color: rebeccapurple;
+    text-decoration: underline;
+}
