@@ -1,8 +1,8 @@
-/* installfont */
+/* installfont 
 @font-face{
     font-family: BebasNeue;
     src: url('../fonts/BebasNeue-Regular.ttf');
-}
+}*/
 
 body{
     margin: 0;
@@ -26,7 +26,7 @@ body{
 .header .logo{
     font-size: 32px;
     float: left;
-    font-family: BebasNeue;
+    font-family: Bebas Neue;
 }
 
 .header .navigation{
@@ -45,6 +45,7 @@ body{
 .header .container .navigation li a{
     color: #FFF;
     text-decoration: none;
+    font-family: Bebas Neue;
 }
 
 .header .container .navigation li a:hover{
